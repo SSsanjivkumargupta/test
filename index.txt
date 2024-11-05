@@ -1,1 +1,2 @@
 array is the collection of similar datatypes and index starts with 0.
+but object is the collection of multiple data types.
